@@ -1,4 +1,4 @@
-# Telco-Customer-churn-Analysis
+# Telco-Customer-Churn-Analysis
 Power BI Dashboard
 
 # Key Highlights:
